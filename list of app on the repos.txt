@@ -1,0 +1,17 @@
+darktable
+clementine
+easytag
+firefox
+pspp
+gimp
+gretl
+htop
+libreoffice
+kdenlive
+quiterss
+redshift
+gtimelog
+thunderbird
+vim
+vlc
+gnucash
